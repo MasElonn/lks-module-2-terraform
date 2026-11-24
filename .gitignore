@@ -4,3 +4,6 @@
 *.tfvars
 crash.log
 *.save
+.DS_store
+*.zip
+
